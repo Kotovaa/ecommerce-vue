@@ -1,0 +1,112 @@
+{
+    "products": [
+        {
+            "id": 0,
+            "name": "lorem ipsum",
+            "img": "https://via.placeholder.com/300x200",
+            "price": "10000"
+        },
+        {
+            "id": 1,
+            "name": "lorem ipsum",
+            "img": "https://via.placeholder.com/300x200",
+            "price": "20000"
+        },
+        {
+            "id": 2,
+            "name": "lorem ipsum",
+            "img": "https://via.placeholder.com/300x200",
+            "price": "30000"
+        },
+        {
+            "id": 3,
+            "name": "lorem ipsum",
+            "img": "https://via.placeholder.com/300x200",
+            "price": "4500"
+        },
+        {
+            "id": 4,
+            "name": "lorem ipsum",
+            "img": "https://via.placeholder.com/300x200",
+            "price": "234000"
+        },
+        {
+            "id": 5,
+            "name": "lorem ipsum",
+            "img": "https://via.placeholder.com/300x200",
+            "price": "65000"
+        },
+        {
+            "id": 6,
+            "name": "lorem ipsum",
+            "img": "https://via.placeholder.com/300x200",
+            "price": "100"
+        },
+        {
+            "id": 7,
+            "name": "lorem ipsum",
+            "img": "https://via.placeholder.com/300x200",
+            "price": "560000"
+        },
+        {
+            "id": 8,
+            "name": "lorem ipsum",
+            "img": "https://via.placeholder.com/300x200",
+            "price": "3000000"
+        },
+        {
+            "id": 9,
+            "name": "lorem ipsum",
+            "img": "https://via.placeholder.com/300x200",
+            "price": "456273"
+        },
+        {
+            "id": 10,
+            "name": "lorem ipsum",
+            "img": "https://via.placeholder.com/300x200",
+            "price": "30000"
+        },
+        {
+            "id": 11,
+            "name": "lorem ipsum",
+            "img": "https://via.placeholder.com/300x200",
+            "price": "1230483"
+        },
+        {
+            "id": 12,
+            "name": "lorem ipsum",
+            "img": "https://via.placeholder.com/300x200",
+            "price": "5765"
+        },
+        {
+            "id": 13,
+            "name": "lorem ipsum",
+            "img": "https://via.placeholder.com/300x200",
+            "price": "304"
+        },
+        {
+            "id": 14,
+            "name": "lorem ipsum",
+            "img": "https://via.placeholder.com/300x200",
+            "price": "3712"
+        },
+        {
+            "id": 15,
+            "name": "lorem ipsum",
+            "img": "https://via.placeholder.com/300x200",
+            "price": "98765"
+        },
+        {
+            "id": 16,
+            "name": "lorem ipsum",
+            "img": "https://via.placeholder.com/300x200",
+            "price": "111111"
+        },
+        {
+            "id": 17,
+            "name": "lorem ipsum",
+            "img": "https://via.placeholder.com/300x200",
+            "price": "10000"
+        }
+    ]
+}
